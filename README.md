@@ -70,6 +70,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=flat-square&logo=servicenow&logoColor=white)
+![CatchPoint](https://img.shields.io/badge/CatchPoint-00C7D4?style=flat-square&logo=CatchPoint&logoColor=black)
 
 </div>
 
