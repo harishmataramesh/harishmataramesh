@@ -19,29 +19,15 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class HarishRamesh:
-    def __init__(self):
-        self.name = "Harish Ramesh"
-        self.pronouns = "he/him"
-        self.role = "Data Engineer"
-        self.degree = "MBA - Data Science & Business Analytics, Jain University"
-        self.stack = {
-            "languages": ["Python", "SQL"],
-            "cloud_platforms": ["Azure Data Factory", "Microsoft Fabric", "Databricks"],
-            "data_tools": ["PySpark", "Delta Lake", "Power BI"],
-            "reliability": ["Datadog", "AppDynamics", "Grafana", "Catchpoint", "ServiceNow"]
-        }
-        self.currently_learning = ["Advanced Databricks Lakehouse", "Real-time Streaming Pipelines"]
-        self.fun_fact = "Went from reconciling ledgers as an accountant to reconciling data pipelines as an engineer"
-
-    def motto(self):
-        return "Build it reliable, monitor it relentlessly, ship it scalable."
-
-
-me = HarishRamesh()
-print(me.motto())
-```
+👋 About Me
+🧑‍💻 Name: Harish Ramesh  (he/him)
+🛠️ Role: Data Engineer
+🎓 Degree: MBA — Data Science & Business Analytics, Jain University
+🧰 Stack: Python, SQL, Azure Data Factory, Microsoft Fabric, Databricks, PySpark, Delta Lake, Power BI
+🩺 Reliability toolkit: Datadog, AppDynamics, Grafana, Catchpoint, ServiceNow
+📚 Currently learning: Advanced Databricks Lakehouse, Real-time Streaming Pipelines
+⚡ Fun fact: Went from reconciling ledgers as an accountant to reconciling data pipelines as an engineer
+💬 Motto: Build it reliable, monitor it relentlessly, ship it scalable.
 
 <br clear="right"/>
 
@@ -99,27 +85,7 @@ print(me.motto())
 </a>
 
 <!-- ============================== -->
-<!-- 7. STREAK STATS -->
-<!-- ============================== -->
-
-<img src="https://streak-stats.demolab.com?user=harishmataramesh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
-
-<!-- ============================== -->
-<!-- 8. ACTIVITY GRAPH -->
-<!-- ============================== -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishmataramesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-<!-- ============================== -->
-<!-- 9. TROPHY WALL -->
-<!-- ============================== -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishmataramesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall"/>
-
-</div>
-
-<!-- ============================== -->
-<!-- 10. WORK EXPERIENCE -->
+<!-- 7. WORK EXPERIENCE -->
 <!-- ============================== -->
 
 ## 💼 Work Experience
