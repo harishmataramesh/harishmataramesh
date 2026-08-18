@@ -9,7 +9,9 @@
 <!-- 2. TYPING HEADER -->
 <!-- ============================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Engineer+%40+Expeditors+International;8%2B+Years+in+IT+%7C+6%2B+Years+in+Production+Reliability;ETL%2FELT+%7C+Python+%7C+SQL+%7C+Databricks+%7C+Azure;Turning+Messy+Data+Into+Reliable%2C+Scalable+Pipelines)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Engineer+%40+Expeditors+International;8%2B+Years+in+IT+%7C+6%2B+Years+in+Production+Reliability;ETL%2FELT+%7C+Python+%7C+SQL+%7C+Databricks+%7C+Azure;Turning+Messy+Data+Into+Reliable%2C+Scalable+Pipelines" alt="Typing SVG" />
+</a>
 
 </div>
 
